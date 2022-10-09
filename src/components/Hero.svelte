@@ -5,10 +5,10 @@
     import Twitter from "svelte-material-icons/Twitter.svelte"
 </script>
 
-<div class="w-full max-w-[1224px] flex mx-auto items-center">
-    <div>
+<div class="w-full max-w-[1224px] flex mx-auto items-center justify-between">
+    <div class="w-[550px]">
         <h2>For Life's <br /> Biggest Moves</h2>
-        <p>With our full suite of mortgage programs, we'll help find
+        <p class="w-full">With our full suite of mortgage programs, we'll help find
             you a loan that feels like home
         </p>
         <div>
